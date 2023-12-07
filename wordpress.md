@@ -682,22 +682,6 @@ In `Username or Email Address` enter `admin`
 in `Password` enter the previously noted down strong password  
 Click `Log In`  
 
-Click `Posts` in the menu on the left  
-Select `Hello World!` 
-Click `Bulk Actions` and select `Move to Trash`
-Click `Apply`  
-
-Click `Add New`  
-If you see any popups close them down  
-For title `The Best Animal(s)!`  
-Click the `+` under the title, select  `Gallery` 
-Click `Upload`  
-Select some animal pictures.... if you dont have any use google images to download some  
-Upload them  
-Click `Publish`  
-Click `Publish`
-Click `view Post`  
-
 This is your working, manually installed and configured wordpress
 
 # STAGE 1 TIDYUP
@@ -827,18 +811,7 @@ Click `Log In`
 Click `Posts` in the menu on the left  
 Select `Hello World!` 
 Click `Bulk Actions` and select `Move to Trash`
-Click `Apply`  
-
-Click `Add New`  
-If you see any popups close them down  
-For title `The Best Animal(s)!`  
-Click the `+` under the title, select  `Gallery` 
-Click `Upload`  
-Select some animal pictures.... if you don't have any use google images to download some  
-Upload them  
-Click `Publish`  
-Click `Publish`
-Click `view Post`  
+Click `Apply`   
 
 This is your working, auto built WordPress instance
 ** don't terminate the instance this time - we're going to migrate the database in stage 3**
